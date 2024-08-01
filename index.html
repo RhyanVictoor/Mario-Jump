@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Mario Jump Game</title>
+        <link rel="stylesheet" href="./css/style.css" />
+        <link
+            rel="shortcut icon"
+            href="./imagens/super-mario.png"
+            type="image/x-icon"
+        />
+    </head>
+
+    <body>
+        <div class="game-board">
+            <img src="./imagens/clouds.png" class="clouds-1" />
+            <img src="./imagens/clouds.png" class="clouds-2" />
+            <img src="./imagens/clouds.png" class="clouds-3" />
+            <img src="./imagens/mario-stop.png" class="mario" />
+            <img src="./imagens/pipe.png" class="pipe" />
+            <img src="./imagens/grass.png" class="grass" />
+            <img src="./imagens/moeda-stop.png" class="moeda" />
+            <img src="./imagens/dino.gif" class="dino" />
+            <img src="./imagens/monstro.gif" class="monstro" />
+
+            <div class="floor">
+                <img src="./imagens/floor.png" class="floor-1" />
+                <img src="./imagens/floor.png" class="floor-2" />
+                <img src="./imagens/floor.png" class="floor-3" />
+            </div>
+
+            <div id="timer">Tempo: 0s</div>
+        </div>
+
+        <button id="restart-button" style="display: none">Reiniciar</button>
+
+        <h1><p id="moedas"></p></h1>
+        <p id="text-start">Para jogar, pressione alguma tecla</p>
+
+        <script src="./js/script.js"></script>
+    </body>
+</html>
