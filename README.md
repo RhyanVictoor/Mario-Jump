@@ -28,3 +28,4 @@ JavaScript: Lógica do jogo e interatividade.
 
 https://mario-jump-game-mocha.vercel.app/
 
+![foto game](https://github.com/RhyanVictoor/Mario-Jump/blob/main/imagens/mario.png?raw=true)
