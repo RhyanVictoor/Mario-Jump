@@ -1,31 +1,31 @@
-**JOGO DO MARIO**
+# Mario Jump
 
-Bem-vindo ao repositório do Jogo Mario Jump!
-Este projeto é uma demonstração dos meus conhecimentos em JavaScript e desenvolvimento web. O jogo é uma aventura divertida que inclui coleta de moedas, cronômetro, desafios com monstros, um dino jogável e uma trilha sonora imersiva.
+Este é o repositório do famoso jogo do mario que te conheceu atras do armário desenvolvido com HTML, CSS e JavaScript.
 
------------------------------------------------------------------------------------------------
+## Funcionalidades
 
-**Funcionalidades:**
-Moeda e Contador de Pontos: Colete moedas e veja seu score aumentar.
+- Moeda e Contador de Pontos.
+- Cronômetro.
+- Monstros e Desafios.
+- Dino Jogável.
+- Trilha Sonora.
 
-Cronômetro: Mantenha-se no tempo e complete os desafios.
+## Como Usar
 
-Monstros e Desafios: Enfrente inimigos e obstáculos pelo caminho.
+1. Abra o arquivo `index.html` em seu navegador da web.
 
-Dino Jogável: Controle um dino em vez do Mario para uma nova experiência.
+## Pré-requisitos
 
-Trilha Sonora: Música de fundo para enriquecer a experiência de jogo.
+Não há pré-requisitos específicos para utilizar.
 
------------------------------------------------------------------------------------------------
+## Contribuindo
 
-**Tecnologias Utilizadas:**
+Este é um projeto de código aberto e contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, relatar problemas ou enviar solicitações de pull.
 
-HTML: Estruturação da página.
+## Tecnologias Utilizadas
 
-CSS: Estilização e layout.
+- HTML: Estruturação da página.
+- CSS: Estilização e layout.
+- JavaScript: Lógica e interatividade.
 
-JavaScript: Lógica do jogo e interatividade.
-
-https://mario-jump-game-mocha.vercel.app/
-
-![foto game](https://github.com/RhyanVictoor/Mario-Jump/blob/main/imagens/mario.png?raw=true)
+![foto](https://github.com/RhyanVictoor/Mario-Jump/blob/main/imagens/mario.png?raw=true)
